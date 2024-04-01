@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: 96849f4095afb654885fdb4eac838e37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6250350675911671085
+    second: wings-removebg-preview_0
+  - first:
+      213: 1997304810208650754
+    second: wings-removebg-preview_1
+  - first:
+      213: -1781223101330996334
+    second: wings-removebg-preview_2
+  - first:
+      213: 6991177113010350156
+    second: wings-removebg-preview_3
+  - first:
+      213: 1745736513440114456
+    second: wings-removebg-preview_4
+  - first:
+      213: 7835187121259519882
+    second: wings-removebg-preview_5
+  - first:
+      213: -8378064338407258975
+    second: wings-removebg-preview_6
+  - first:
+      213: 3862515450047862412
+    second: wings-removebg-preview_7
+  - first:
+      213: -8267510630505176477
+    second: wings-removebg-preview_8
+  - first:
+      213: -5361666218259874089
+    second: wings-removebg-preview_9
+  - first:
+      213: -7222696639892652800
+    second: wings-removebg-preview_10
+  - first:
+      213: -2373863442738819745
+    second: wings-removebg-preview_11
+  - first:
+      213: -6498853590174623360
+    second: wings-removebg-preview_12
+  - first:
+      213: 4792419530309889698
+    second: wings-removebg-preview_13
+  - first:
+      213: 1470391402959161798
+    second: wings-removebg-preview_14
+  - first:
+      213: 48310260389625491
+    second: wings-removebg-preview_15
+  - first:
+      213: 6766322428041967885
+    second: wings-removebg-preview_16
+  - first:
+      213: 6370919906603711626
+    second: wings-removebg-preview_17
+  - first:
+      213: 5637727070190197953
+    second: wings-removebg-preview_18
+  - first:
+      213: -8881076769109067728
+    second: wings-removebg-preview_19
+  - first:
+      213: -8843336330264683094
+    second: wings-removebg-preview_20
+  - first:
+      213: 1982885186708574346
+    second: wings-removebg-preview_21
+  - first:
+      213: 7735472592448195508
+    second: wings-removebg-preview_22
+  - first:
+      213: -737922500555243933
+    second: wings-removebg-preview_23
+  - first:
+      213: 1520318292821301153
+    second: wings-removebg-preview_24
+  - first:
+      213: -8737472506463592309
+    second: wings-removebg-preview_25
+  - first:
+      213: -5894902139317687934
+    second: wings-removebg-preview_26
+  - first:
+      213: 8117667592839446062
+    second: wings-removebg-preview_27
+  - first:
+      213: -8771360614950325601
+    second: wings-removebg-preview_28
+  - first:
+      213: -8100304709250517581
+    second: wings-removebg-preview_29
+  - first:
+      213: 2902916029425458181
+    second: wings-removebg-preview_30
+  - first:
+      213: 8287862112992848498
+    second: wings-removebg-preview_31
+  - first:
+      213: -6918751956112882882
+    second: wings-removebg-preview_32
+  - first:
+      213: -8478081893686024028
+    second: wings-removebg-preview_33
+  - first:
+      213: 52483712755781518
+    second: wings-removebg-preview_34
+  - first:
+      213: 7283725052825034167
+    second: wings-removebg-preview_35
+  - first:
+      213: -2081005975703894855
+    second: wings-removebg-preview_36
+  - first:
+      213: 3201897645939362794
+    second: wings-removebg-preview_37
+  - first:
+      213: -2799544179910903160
+    second: wings-removebg-preview_38
+  - first:
+      213: 6023187609248920325
+    second: wings-removebg-preview_39
+  - first:
+      213: 1554478758679389135
+    second: wings-removebg-preview_40
+  - first:
+      213: -4664602429123590421
+    second: wings-removebg-preview_41
+  - first:
+      213: -7418754128501151971
+    second: wings-removebg-preview_42
+  - first:
+      213: -7883462837470306574
+    second: wings-removebg-preview_43
+  - first:
+      213: -7894938017699083454
+    second: wings-removebg-preview_44
+  - first:
+      213: -6576945368818404394
+    second: wings-removebg-preview_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wings-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 299
+        width: 20
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d289a01d2b4249a0800000000000000
+      internalID: -6250350675911671085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 351
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2066aa8842ad7bb10800000000000000
+      internalID: 1997304810208650754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 295
+        width: 21
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2934273d603d747e0800000000000000
+      internalID: -1781223101330996334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 348
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a2de1b86a50160800000000000000
+      internalID: 6991177113010350156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 299
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e6031c1a1a3810800000000000000
+      internalID: 1745736513440114456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 348
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f93679c2d2cbc60800000000000000
+      internalID: 7835187121259519882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 347
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a40ed38fd22bbb80800000000000000
+      internalID: -8378064338407258975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 300
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c869f8b56596a9530800000000000000
+      internalID: 3862515450047862412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 295
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36229fb72e6e34d80800000000000000
+      internalID: -8267510630505176477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 292
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de78685bf88795b0800000000000000
+      internalID: -5361666218259874089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 292
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d7aca6ca3d3cb90800000000000000
+      internalID: -7222696639892652800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 22
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d444ea6c75e0fd0800000000000000
+      internalID: -2373863442738819745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 243
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0899e56971f6fc5a0800000000000000
+      internalID: -6498853590174623360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 191
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee3c6eb28128240800000000000000
+      internalID: 4792419530309889698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 191
+        width: 20
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c94b26c031e76410800000000000000
+      internalID: 1470391402959161798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 244
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eb7850de1aba000800000000000000
+      internalID: 48310260389625491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 120
+        width: 92
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d093337166ec6ed50800000000000000
+      internalID: 6766322428041967885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 237
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c349586ed0a6850800000000000000
+      internalID: 6370919906603711626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 191
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc5a4f76ea3d3e40800000000000000
+      internalID: 5637727070190197953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 192
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b7428bb310c480800000000000000
+      internalID: -8881076769109067728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 120
+        width: 24
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad544d2678264580800000000000000
+      internalID: -8843336330264683094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 65
+        width: 44
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a801620529f948b10800000000000000
+      internalID: 1982885186708574346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 121
+        width: 24
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb05aaa65be95b60800000000000000
+      internalID: 7735472592448195508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 120
+        width: 23
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ef2aa356f52c5f0800000000000000
+      internalID: -737922500555243933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 173
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7542dae61491510800000000000000
+      internalID: 1520318292821301153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 173
+        width: 15
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ee796c034eb680800000000000000
+      internalID: -8737472506463592309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 130
+        width: 116
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2896740acb9113ea0800000000000000
+      internalID: -5894902139317687934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 131
+        width: 116
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e35eb9aafb7a070800000000000000
+      internalID: 8117667592839446062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 107
+        width: 15
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b80d4efdd54680800000000000000
+      internalID: -8771360614950325601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 108
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5f2b0c8cfe59f80800000000000000
+      internalID: -8100304709250517581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 65
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c11ba9fba394820800000000000000
+      internalID: 2902916029425458181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 116
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6b584ea6640370800000000000000
+      internalID: 8287862112992848498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 10
+        width: 42
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e334ad6c0c7abff90800000000000000
+      internalID: -6918751956112882882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 76
+        width: 116
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a86c2ebf6dc75a80800000000000000
+      internalID: -8478081893686024028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 64
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f4d4f98a57ab000800000000000000
+      internalID: 52483712755781518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 65
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bddf3f385df41560800000000000000
+      internalID: 7283725052825034167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 56
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b444ba3718ce13e0800000000000000
+      internalID: -2081005975703894855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 56
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb0061d1fc6f6c20800000000000000
+      internalID: 3201897645939362794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 12
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af567a6650629d0800000000000000
+      internalID: -2799544179910903160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 28
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f0d8e739a69350800000000000000
+      internalID: 6023187609248920325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 13
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3a9fde13e929510800000000000000
+      internalID: 1554478758679389135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 7
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be60aa90ec0044fb0800000000000000
+      internalID: -4664602429123590421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 8
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e9b62d6a4b0990800000000000000
+      internalID: -7418754128501151971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 7
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fed6945150589290800000000000000
+      internalID: -7883462837470306574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc15bb3bb8f6290800000000000000
+      internalID: -7894938017699083454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wings-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3bd60880ff9b4a0800000000000000
+      internalID: -6576945368818404394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

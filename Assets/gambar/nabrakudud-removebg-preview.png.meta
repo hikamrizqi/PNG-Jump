@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 7e046d71981fa7a4488af8b52d8c17ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7978387133392718275
+    second: nabrakudud-removebg-preview_0
+  - first:
+      213: -430663400596421176
+    second: nabrakudud-removebg-preview_1
+  - first:
+      213: 1145106105702134392
+    second: nabrakudud-removebg-preview_2
+  - first:
+      213: 4587436608851792172
+    second: nabrakudud-removebg-preview_3
+  - first:
+      213: 7584724823814080337
+    second: nabrakudud-removebg-preview_4
+  - first:
+      213: 8154316076808136621
+    second: nabrakudud-removebg-preview_5
+  - first:
+      213: 8065349826072441816
+    second: nabrakudud-removebg-preview_6
+  - first:
+      213: 5154645514798693418
+    second: nabrakudud-removebg-preview_7
+  - first:
+      213: 8998185924203284521
+    second: nabrakudud-removebg-preview_8
+  - first:
+      213: 8329907050254602877
+    second: nabrakudud-removebg-preview_9
+  - first:
+      213: -8277833189407513207
+    second: nabrakudud-removebg-preview_10
+  - first:
+      213: -454334216222039322
+    second: nabrakudud-removebg-preview_11
+  - first:
+      213: 3822876895369967424
+    second: nabrakudud-removebg-preview_12
+  - first:
+      213: 5018312922369268336
+    second: nabrakudud-removebg-preview_13
+  - first:
+      213: -6462284209555856257
+    second: nabrakudud-removebg-preview_14
+  - first:
+      213: -3668147968737641972
+    second: nabrakudud-removebg-preview_15
+  - first:
+      213: -2962755764955065243
+    second: nabrakudud-removebg-preview_16
+  - first:
+      213: -254332927674690829
+    second: nabrakudud-removebg-preview_17
+  - first:
+      213: -4245509172478346582
+    second: nabrakudud-removebg-preview_18
+  - first:
+      213: 1147500595695583432
+    second: nabrakudud-removebg-preview_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3674996c23174190800000000000000
+      internalID: -7978387133392718275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 319
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c540bd3be9f50af0800000000000000
+      internalID: -430663400596421176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 318
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b184afeb34ef00800000000000000
+      internalID: 1145106105702134392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 319
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21db3c5a49d9af30800000000000000
+      internalID: 4587436608851792172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 323
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157868aaa0b524960800000000000000
+      internalID: 7584724823814080337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 317
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7e768b443f92170800000000000000
+      internalID: 8154316076808136621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 318
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d37e4c4fe0edef60800000000000000
+      internalID: 8065349826072441816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 318
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cf2a409caf88740800000000000000
+      internalID: 5154645514798693418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 331
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9288e037c6affdc70800000000000000
+      internalID: 8998185924203284521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 321
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7292761456c99370800000000000000
+      internalID: 8329907050254602877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 318
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9852d63729a3f1d80800000000000000
+      internalID: -8277833189407513207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 319
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a7c00071e1b9f0800000000000000
+      internalID: -454334216222039322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 322
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047339828469d0530800000000000000
+      internalID: 3822876895369967424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 318
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a9295c301a4a540800000000000000
+      internalID: 5018312922369268336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 317
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74aec300ca5156a0800000000000000
+      internalID: -6462284209555856257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 321
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a72db6bde181dc0800000000000000
+      internalID: -3668147968737641972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 318
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564dc91445d22e6d0800000000000000
+      internalID: -2962755764955065243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 321
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d34fbc8d687cf0800000000000000
+      internalID: -254332927674690829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 318
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf3cbb6ebe415c0800000000000000
+      internalID: -4245509172478346582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabrakudud-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00cf946bdbcef00800000000000000
+      internalID: 1147500595695583432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -326, y: 129.5}
+      - {x: -324, y: 179.5}
+      - {x: 323, y: 179.5}
+      - {x: 318, y: 123.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

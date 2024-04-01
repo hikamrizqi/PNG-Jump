@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 080a42d501a433040aa73d387072f3c3, type: 3}
+  m_Name: Characterdatabase
+  m_EditorClassIdentifier: 
+  character:
+  - bocah: ROPIKK
+    characterSprite: {fileID: 21300000, guid: 22a105f92e4cbd64e959fb00433af876, type: 3}
+  - bocah: SUBHANG
+    characterSprite: {fileID: 21300000, guid: 3a8cad4b70e5af04284afb000d910a9d, type: 3}
+  - bocah: OJAKK
+    characterSprite: {fileID: 21300000, guid: 61c50d858544a504cb82a3b48c0d501d, type: 3}
+  - bocah: CONNEPP
+    characterSprite: {fileID: 21300000, guid: d76ce9f364ac8ad4a87e591aabd3c320, type: 3}
+  - bocah: SAPINGI
+    characterSprite: {fileID: 21300000, guid: 9af96a0a0d6e6ad4eb6c8969cf4178e4, type: 3}
+  - bocah: BIDDD
+    characterSprite: {fileID: 21300000, guid: f5027c74f7394264db1cef83c35a73c6, type: 3}
+  - bocah: TRONDOL
+    characterSprite: {fileID: 21300000, guid: d4c3f29e9e85d724595eedece4e0c56f, type: 3}
+  - bocah: BULL
+    characterSprite: {fileID: 21300000, guid: 2c58e69a60625ce4a84113b13d4d4181, type: 3}
+  - bocah: DUDUWONG
+    characterSprite: {fileID: 21300000, guid: ae2635cf67ce4e84a8e398c191da82b4, type: 3}
+  - bocah: AMOY HC
+    characterSprite: {fileID: 21300000, guid: 068c5a218fb11604c8d3c4c31a277354, type: 3}
+  - bocah: BATAK
+    characterSprite: {fileID: 21300000, guid: 0bc5f98464b04e045875d766b46fde5a, type: 3}
+  - bocah: BOS
+    characterSprite: {fileID: 21300000, guid: 95da177a0ba5a5a46a696cf6c5381a54, type: 3}
+  - bocah: BOJANN
+    characterSprite: {fileID: 21300000, guid: 0629ae9af2057404cb59a69a80804f72, type: 3}
+  - bocah: ENDEESS
+    characterSprite: {fileID: 21300000, guid: b58820a2b3d68804399b8a454ae18318, type: 3}
+  - bocah: WAKAJI
+    characterSprite: {fileID: 21300000, guid: 65435683efefb0c4f8b95b1e81cb4f3b, type: 3}
+  - bocah: KUUUR
+    characterSprite: {fileID: 21300000, guid: f03bca2c069113844b761ddcc654e2d6, type: 3}
+  - bocah: KEBO
+    characterSprite: {fileID: 21300000, guid: 26907bd5b95ed57419fe467952699279, type: 3}
+  - bocah: NYULLL
+    characterSprite: {fileID: 21300000, guid: a48aa73422b3c7f40bd683f311079a2f, type: 3}
+  - bocah: JATINEGARA
+    characterSprite: {fileID: 21300000, guid: bfbdf10699064b642aa67a30a70598a2, type: 3}
+  - bocah: SEMPRUL
+    characterSprite: {fileID: 21300000, guid: 3dd53340fb1e9ea4ab445921c523c2c5, type: 3}
+  - bocah: MALAIKAT
+    characterSprite: {fileID: 21300000, guid: 98ed69d95a80d424096d538dd7e0501d, type: 3}
+  - bocah: SIBRADER
+    characterSprite: {fileID: 21300000, guid: cf22941619cb7ce4aa9f70cb1edb9fb7, type: 3}
+  - bocah: TAJEY
+    characterSprite: {fileID: 21300000, guid: c3ae52789d1ab4141a6b9411d572531c, type: 3}
+  - bocah: RAMSES
+    characterSprite: {fileID: 21300000, guid: 1cdc3f00f0f8d0241a5c9bda9718fd0f, type: 3}
+  - bocah: WASROP
+    characterSprite: {fileID: 21300000, guid: 5076f0c732f22b04e8fe087ba47c6518, type: 3}
+  - bocah: MASZENN
+    characterSprite: {fileID: 21300000, guid: 8ef3a5c2edaeed64e9eade95f89fb40d, type: 3}
+  - bocah: JACKIE CHAN
+    characterSprite: {fileID: 21300000, guid: be51f2f573032fb40a8a6a9d2d711580, type: 3}
+  - bocah: DORAEMON
+    characterSprite: {fileID: 21300000, guid: c6d52d7b77b34024c8bafb3c73c2476f, type: 3}
+  - bocah: THILE
+    characterSprite: {fileID: 21300000, guid: 4e574e5934f35fd4599548a7f0d4ab29, type: 3}
